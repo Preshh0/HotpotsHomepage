@@ -4280,7 +4280,7 @@
 	
 	button{
 		height: 50px;
-		width: 350px;
+		width: 220px;
 		background:rgba(0, 0, 0, 0.5);
 		border-radius: 30px;
 		font-weight: 900;
@@ -4289,7 +4289,7 @@
 
 	}
 	button:hover{
-		width: 400px;
+		width: 240px;
 		background:rgba(0, 0, 0, 0.5);
 		border:2px rgba(255, 255, 255, 0.5) solid;
 	}
@@ -4321,21 +4321,6 @@
 
 			#footer {
 				padding: 3rem 0 1rem 0 ;
-			}
-			button{
-				height: 50px;
-				width: 250px;
-				background:rgba(0, 0, 0, 0.5);
-				border-radius: 30px;
-				font-weight: 900;
-				padding:0px 15px;
-				transition: width 2s;
-		
-			}
-			button:hover{
-				width: 300px;
-				background:rgba(0, 0, 0, 0.5);
-				border:2px rgba(255, 255, 255, 0.5) solid;
 			}
 
 		}
